@@ -53,6 +53,8 @@ const ProfileScreen = () => {
                     icon={
                         <Ionicons name={"mail-outline"} size={iconSize.md} color={colors.iconSecondary} style={styles.icon} />
                     }
+                    // value
+                    // handleChange
 
                 />
 
